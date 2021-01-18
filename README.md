@@ -1,0 +1,1 @@
+This repository hosts the homework for week 2 (enhancing the week 1 homework assignment with CSS). The link to the netify is: (https://nsanthem-hw2.netlify.app)
